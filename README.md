@@ -6,4 +6,4 @@ This is one of my first ever PHP school projects. It’s a website where users c
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
+| ![](/Screenshots/1-Login.png) | ![](/Screenshots/.png) |
