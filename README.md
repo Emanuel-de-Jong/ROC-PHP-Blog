@@ -7,4 +7,4 @@ This is one of my first ever PHP school projects. It's a website where users can
 | | |
 | :---: | :---: |
 | ![](/Screenshots/1-Login.png) | ![](/Screenshots/.png) |
-   
+    
